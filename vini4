@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1{
+    color:blue;
+    text-shadow: 2px 2px,0 0 25px,0 0 5px darkblue;
+}      
+</style>
+</head>
+<body>
+
+<h1> vinothini</h1>
+
+</body>
+</html>
